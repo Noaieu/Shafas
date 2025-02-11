@@ -283,3 +283,17 @@ body {
   color: white;
   text-shadow: 0 0 20px rgb(235, 25, 42);
 }
+.night {
+  posisition: relative;
+  width: 100%;
+  height: 100%;
+  transform: rotateZ(45deg);
+}
+.shooting_star {
+  posisition: absolute;
+  left: 50%;
+  top: 50%;
+  height: 2px;
+}
+
+  
