@@ -112,3 +112,15 @@ p {
 
   text-shadow: 0 0 20px rgb(255, 255, 255);
 }
+.night {
+  posisition: relative;
+  width: 100%;
+  height: 100%;
+  transform: rotateZ(45deg);
+}
+.shooting_star {
+  posisition: absolute;
+  left: 50%;
+  top: 50%;
+  height: 2px;
+}
